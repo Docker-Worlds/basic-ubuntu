@@ -1,7 +1,6 @@
 # HOW to get BASIC UBUNTU docker?
 - Web vscode
 - ssh connection
-- beautiful terminal
 
 # Get Web VScode
 ```
@@ -61,4 +60,5 @@ ssh localhost
 ```
 접속에 성공했다면 다음 스텝으로 넘어갈 준비가 되었다.
 
-# ZSH Terminal
+
+
